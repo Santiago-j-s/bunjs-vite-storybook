@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "NodeNext",
+    "allowJs": true,
+    "baseUrl": ".",
+    "jsx": "react-jsx",
+    "types": []
+  }
+}

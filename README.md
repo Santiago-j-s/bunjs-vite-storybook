@@ -1,9 +1,15 @@
-# React
+# storybook example with bunjs and builder-vite
 
-This example demonstrates storybook in a React v16 project.
+To install dependencies:
 
-It uses autotitle for some stories, but without a configuration object, a `titlePrefix` cannot be defined.
+```bash
+bun install
+```
 
-This example also demonstrates global arg configuration in a v6 story store project.
+To run:
 
-This example also demonstrates MDX2 support.
+```bash
+bun run storybook
+```
+
+This project was created using `bun init` in bun v0.1.8. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
